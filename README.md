@@ -19,7 +19,7 @@ A collection of time-series forecasting projects applying deep learning and stat
 
 **File:** [Stock Price Analysis & Prediction](https://github.com/laingangiang2006/Stock-Price-And-Exchange-Rate-Analysis/tree/main/Stock%20Price%20Analysis%20%26%20Prediction)
 
-Predicts Apple's stock closing price using a Long Short-Term Memory (LSTM) neural network — a type of recurrent neural network well-suited for sequential and time-series data.
+Predicts Apple's stock closing price using a Long Short-Term Memory (LSTM) neural network, which is a type of recurrent neural network well-suited for sequential and time-series data.
 
 **Key steps:**
 - Data collection via yfinance (or similar)
@@ -36,7 +36,7 @@ Predicts Apple's stock closing price using a Long Short-Term Memory (LSTM) neura
 
 **File:** [AUD-USD Exchange Rate Analysis & Prediction](https://github.com/laingangiang2006/Stock-Price-And-Exchange-Rate-Analysis/tree/main/AUD-USD%20Exchange%20Rate%20Analysis%20%26%20Prediction)
 
-Analyzes and forecasts the Australian Dollar to US Dollar exchange rate using SARIMA (Seasonal AutoRegressive Integrated Moving Average), a classical statistical approach for time-series with seasonality.
+Analyzes and forecasts the Australian Dollar to US Dollar exchange rate using SARIMA (Seasonal AutoRegressive Integrated Moving Average), which is a classical statistical approach for time-series with seasonality.
 
 **Key steps:**
 - Data loading and preprocessing
