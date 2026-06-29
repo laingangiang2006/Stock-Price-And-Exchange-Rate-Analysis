@@ -1,4 +1,4 @@
-# Stock Price & Exchange Rate Analysis
+# Stock Price & Exchange Rate Analysis and Forecasting
 
 A collection of time-series forecasting projects applying deep learning and statistical models to financial data, covering both equity markets and foreign exchange rates.
 
