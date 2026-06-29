@@ -80,3 +80,9 @@ Analyzes and forecasts the Australian Dollar to US Dollar exchange rate using SA
 ## Author
 
 **laingangiang2006** - [GitHub Profile](https://github.com/laingangiang2006)
+
+---
+
+## License
+
+This portfolio is open for educational and personal use.
