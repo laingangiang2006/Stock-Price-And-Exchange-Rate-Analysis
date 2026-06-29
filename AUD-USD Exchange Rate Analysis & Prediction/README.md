@@ -68,7 +68,3 @@ This project is for **educational purposes only** and should **not** be used as 
 ## Author
 
 **Lại Ngân Giang** — [GitHub Profile](https://github.com/laingangiang2006)
-
----
-
-This README is based directly on the contents of your uploaded notebook. Let me know if you'd like to tweak any section!
