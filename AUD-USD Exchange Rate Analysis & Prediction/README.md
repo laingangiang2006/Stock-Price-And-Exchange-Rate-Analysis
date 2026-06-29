@@ -53,42 +53,6 @@ Decomposes the series to identify **trend**, **seasonality**, and **residual** c
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-Python 3.8+ recommended. Install all dependencies with:
-
-```bash
-pip install yfinance pandas matplotlib numpy scikit-learn seaborn statsmodels plotly nbformat
-```
-
-### Running the Notebook
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/laingangiang2006/Stock-Price-And-Exchange-Rate-Analysis.git
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd "Stock-Price-And-Exchange-Rate-Analysis/AUD-USD Exchange Rate Analysis & Prediction"
-   ```
-
-3. Launch Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-
-4. Open `AUDUSD_Exchange_Rate_Analysis_SARIMA.ipynb` and run all cells.
-
-5. When prompted, enter:
-   - **Currency Pair**: `AUDUSD`
-   - **Start date**: `2020-01-01`
-   - **End date**: `2026-06-28` (or yesterday's date)
-
----
-
 ## Model
 
 The notebook uses **SARIMA**, which extends ARIMA to capture **seasonal patterns** in the exchange rate time series. It first decomposes the series to detect trend and seasonality before fitting the model.
