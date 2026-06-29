@@ -10,7 +10,7 @@ This notebook analyzes the historical AUD/USD exchange rate and builds a **SARIM
 
 ---
 
-## 🔍 Workflow & Key Steps
+## Workflow & Key Steps
 
 ### 1. Install & Import Libraries
 Installs and imports all required packages including `yfinance`, `pandas`, `matplotlib`, `seaborn`, `plotly`, `statsmodels`, and others.
@@ -36,7 +36,7 @@ Decomposes the series to identify **trend**, **seasonality**, and **residual** c
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Tool | Purpose |
 |---|---|
