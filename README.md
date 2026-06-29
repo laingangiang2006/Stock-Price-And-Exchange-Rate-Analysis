@@ -85,4 +85,4 @@ Analyzes and forecasts the Australian Dollar to US Dollar exchange rate using SA
 
 ## License
 
-This portfolio is open for educational and personal use.
+This portfolio is for educational use.
