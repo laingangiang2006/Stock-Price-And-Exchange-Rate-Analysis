@@ -1,10 +1,10 @@
-# 📈 Stock Price & Exchange Rate Analysis
+# Stock Price & Exchange Rate Analysis
 
 A collection of time-series forecasting projects applying deep learning and statistical models to financial data — covering both equity markets and foreign exchange rates.
 
 ---
 
-## 📂 Project Overview
+## Project Overview
 
 | Notebook | Target | Model | Task |
 |---|---|---|---|
@@ -13,7 +13,7 @@ A collection of time-series forecasting projects applying deep learning and stat
 
 ---
 
-## 🔬 Projects
+## Projects
 
 ### 1. AAPL Stock Price Prediction — LSTM
 
@@ -61,7 +61,7 @@ Analyzes and forecasts the Australian Dollar to US Dollar exchange rate using SA
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Project | Model | Notes |
 |---|---|---|
@@ -70,20 +70,20 @@ Analyzes and forecasts the Australian Dollar to US Dollar exchange rate using SA
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Stock and exchange rate data is fetched dynamically; results may differ depending on the date of execution.
 - These projects are for **educational purposes** and should not be used for actual trading or investment decisions.
 
 ---
 
-## 👤 Author
+## Author
 
 **laingangiang2006**
 [GitHub Profile](https://github.com/laingangiang2006)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
