@@ -1,6 +1,6 @@
 # Stock Price & Exchange Rate Analysis
 
-A collection of time-series forecasting projects applying deep learning and statistical models to financial data — covering both equity markets and foreign exchange rates.
+A collection of time-series forecasting projects applying deep learning and statistical models to financial data, covering both equity markets and foreign exchange rates.
 
 ---
 
@@ -79,11 +79,4 @@ Analyzes and forecasts the Australian Dollar to US Dollar exchange rate using SA
 
 ## Author
 
-**laingangiang2006**
-[GitHub Profile](https://github.com/laingangiang2006)
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+**laingangiang2006** - [GitHub Profile](https://github.com/laingangiang2006)
