@@ -8,8 +8,8 @@ A collection of time-series forecasting projects applying deep learning and stat
 
 | Notebook | Target | Model | Task |
 |---|---|---|---|
-| [AAPL Stock Price Analysis and Prediction](https://github.com/laingangiang2006/Stock-Price-And-Exchange-Rate-Analysis/tree/main/Stock%20Price%20Analysis) | Apple Inc. (AAPL) | LSTM (Deep Learning) | Stock price prediction |
-| [AUD-USD Exchange Rate Analysis and Prediction](https://github.com/laingangiang2006/Stock-Price-And-Exchange-Rate-Analysis/tree/main/AUD-USD%20Exchange%20Rate%20Analysis) | AUD/USD Exchange Rate | SARIMA (Statistical) | Exchange rate forecasting |
+| [AAPL Stock Price Analysis & Prediction](https://github.com/laingangiang2006/Stock-Price-And-Exchange-Rate-Analysis/tree/main/Stock%20Price%20Analysis%20%26%20Prediction) | Apple Inc. (AAPL) | LSTM (Deep Learning) | Stock price prediction |
+| [AUD-USD Exchange Rate Analysis & Prediction](https://github.com/laingangiang2006/Stock-Price-And-Exchange-Rate-Analysis/tree/main/AUD-USD%20Exchange%20Rate%20Analysis%20%26%20Prediction) | AUD/USD Exchange Rate | SARIMA (Statistical) | Exchange rate forecasting |
 
 ---
 
