@@ -79,7 +79,7 @@ Dense(1)
 - **Loss:** Mean Squared Error
 - **Epochs:** 10
 - **Batch size:** 32
-- 
+
 ---
 
 ## Disclaimer
