@@ -61,27 +61,6 @@ Installs and imports all required packages including `yfinance`, `pandas`, `nump
 
 ---
 
-## Model
-
-The notebook uses a stacked **LSTM** architecture:
-
-```
-LSTM(50, return_sequences=True)
-Dropout(0.2)
-LSTM(50)
-Dropout(0.2)
-Dense(32)
-Dense(1)
-```
-
-- **Lookback window:** 45 days
-- **Optimizer:** Adam
-- **Loss:** Mean Squared Error
-- **Epochs:** 10
-- **Batch size:** 32
-
----
-
 ## Disclaimer
 
 This project is for **educational purposes only** and should **not** be used as financial advice. Stock price forecasting is inherently uncertain.
