@@ -6,7 +6,7 @@ A time series data science project analyzing and forecasting the AUD/USD exchang
 
 ## Overview
 
-This notebook analyzes the historical AUD/USD exchange rate and builds a **SARIMA (Seasonal AutoRegressive Integrated Moving Average)** forecasting model to predict future exchange rates for the next **60 trading periods**. The analysis covers data from **January 2020 to June 2026** (1,688 trading days).
+This notebook analyzes the historical AUD/USD exchange rate and builds a SARIMA (Seasonal AutoRegressive Integrated Moving Average) forecasting model to predict future exchange rates for the next **60 trading periods**. The analysis covers data from January 2020 to June 2026 (1,688 trading days).
 
 I also exported the dataset from this project to Kaggle, available here: [AUD-USD Exchange Rate Analysis and Forecasting](https://www.kaggle.com/datasets/laingangiang2006/aud-usd-exchange-rate-analysis-and-forecasting).
 
