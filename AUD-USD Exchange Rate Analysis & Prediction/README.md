@@ -10,7 +10,7 @@ This notebook analyzes the historical AUD/USD exchange rate and builds a **SARIM
 
 I also exported the dataset from this project to Kaggle, available here: [AUD-USD Exchange Rate Analysis and Forecasting](https://www.kaggle.com/datasets/laingangiang2006/aud-usd-exchange-rate-analysis-and-forecasting).
 
-> If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/aud-usd-exchange-rate-analysis).
+If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/aud-usd-exchange-rate-analysis).
 
 ---
 
